@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Thanks for finding yourself at my Github page! I treat Github like my second website and am constantly updating readmes and projects that I am currently invloved in.
+
+- I'm currently working on ML methods in chemistry with Kebotix Inc (Boston MA, USA). I work remotely from Toronto/Waterloo at the moment.
+- On my own time I'm working on a project with [Kevin Shen](https://github.com/kshen3778) involving a meta-leraning heuristic using neural networks to generate their own weights.
+- I'd love to collaborate on any related projects or any compelling ideas that I can take up (most recently I've begun a new initiative involving queueing and scheduling theory).
+- Ask me about Graph Neural Networks and other unconventional neural information model architectures.
+
+![Visitor Count](https://profile-counter.glitch.me/{flawnson}/count.svg)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=flawnson)](https://github.com/flawnson)
