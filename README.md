@@ -22,5 +22,4 @@ Thanks for finding yourself at my Github page! I treat Github like my second web
 - I'd love to collaborate on any related projects or any compelling ideas that I can take up (most recently I've begun a new initiative involving queueing and scheduling theory).
 - Ask me about Graph Neural Networks and other unconventional neural information model architectures.
 
-![Visitor Count](https://profile-counter.glitch.me/{flawnson}/count.svg)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=flawnson)](https://github.com/flawnson)
