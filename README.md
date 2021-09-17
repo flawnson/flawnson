@@ -19,9 +19,8 @@ Here are some ideas to get you started:
 
 Thanks for finding yourself at my Github page! I treat Github like my second website and am constantly updating readmes and projects that I am currently invloved in.
 
-- 🧪 I'm currently working on ML methods (mostly graph and language models) for chemical and materials discovery with [Kebotix Inc](https://www.kebotix.com/) (Boston MA, USA). I work remotely from Toronto/Waterloo at the moment.
-- 🤖 On my own time I'm working on a project with [Kevin Shen](https://github.com/kshen3778) involving - at an oversimplified level - a meta-leraning heuristic using neural networks to generate their own weights.
-- ⌛ Recently, [Don Townsend](https://github.com/townofdon) and I started a new project to build an app for virtual queues with an RL engine to optimize for fairness and efficiency of services simultaneously.
+- 🤖 On my own time I'm working on a project with [Kevin Shen](https://github.com/kshen3778) for a meta-learninig heuristic that involves using neural networks to generate their own weights.
+- ⌛ Recently I started a new project to build a web app for creating virtual queues to simultaneously optimize for fairness and efficiency of services. I'm hoping to include some sort of predictive engine to provide estimated wait times for queuers and recommend service improvements for businesses in real time. 
 - ☕ I'd love to collaborate on any related projects or any compelling ideas that I can take up, or just chat and answer questions about stuff outside programming.
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=flawnson)](https://github.com/flawnson)
