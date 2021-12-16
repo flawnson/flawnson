@@ -17,10 +17,10 @@ Here are some ideas to get you started:
 
 ![Profile views](https://gpvc.arturio.dev/flawnson)
 
-Thanks for finding yourself at my Github page! I treat Github like my second website and am constantly updating readmes and projects that I am currently invloved in.
+Thanks for finding yourself at my Github page! I treat Github like my second website and am constantly updating readmes and projects that I am currently invloved in. Also check out [my blog](https://flawnson.github.io/) if you're curious to know what I've been dabbling in most recently besides code.
 
-- 🤖 On my own time I'm working on a project with [Kevin Shen](https://github.com/kshen3778) for a meta-learninig heuristic that involves using neural networks to generate their own weights.
-- ⌛ Recently I started a new project to build a web app for creating virtual queues to simultaneously optimize for fairness and efficiency of services. I'm hoping to include some sort of predictive engine to provide estimated wait times for queuers and recommend service improvements for businesses in real time. 
+- 🤖 On my own time I'm working on a meta-learninig heuristic that involves using neural networks to generate their own weights. The goal is to train a model that could do away with back-propagation and reach optimal states self-sufficiently.
+- ⌛ Recently I started a new project with [Kevin Shen](https://github.com/kshen3778) to build a web app and API for creating virtual queues to simultaneously optimize for fairness and efficiency of services. I'm hoping to include some sort of predictive engine to provide estimated wait times for queuers and recommend service improvements for businesses in real time. 
 - ☕ I'd love to collaborate on any related projects or any compelling ideas that I can take up, or just chat and answer questions about stuff outside programming.
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=flawnson)](https://github.com/flawnson)
