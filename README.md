@@ -19,9 +19,8 @@ Here are some ideas to get you started:
 
 Thanks for finding yourself at my Github page! I treat Github like my second website and am constantly updating readmes and projects that I am currently invloved in. Also check out [my blog](https://flawnson.github.io/) if you're curious to know what I've been dabbling in most recently besides code.
 
-- 🤖 On my own time I'm working on a meta-learninig heuristic that involves using neural networks to generate their own weights. The goal is to train a model that could do away with back-propagation and reach optimal states self-sufficiently.
-- ⌛ Recently I started a new project with [Kevin Shen](https://github.com/kshen3778) to build a web app and API for creating virtual queues to simultaneously optimize for fairness and efficiency of services. I'm hoping to include some sort of predictive engine to provide estimated wait times for queuers and recommend service improvements for businesses in real time. 
-- ☕ I'd love to collaborate on any related projects or any compelling ideas that I can take up, or just chat and answer questions about stuff outside programming.
+- 🧬 Recently I've been working with my good friend [Albert Wang](https://www.linkedin.com/in/albert-yq-wang/) on [Comend](https://www.comendcare.com/), we build software for rare disease patient groups. We've launched [Librarey](https://www.librarey.com/), and are actively developing [Scimantic](http://scimantic.com/) as well as new products. Our mission is to build the operating system for citizen science by building a suite of tools to help patient groups do what they do better.
+- 🍵 I'd love to collaborate on any related projects or any compelling ideas that I can take up, or just chat and answer questions about stuff outside programming.
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=flawnson)](https://github.com/flawnson)
 [![Github Stats](https://github-readme-stats.vercel.app/api?username=flawnson)](https://github.com/flawnson)
