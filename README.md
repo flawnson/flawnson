@@ -25,4 +25,7 @@ Thanks for finding yourself at my Github page! I treat Github like my second web
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=flawnson)](https://github.com/flawnson)
 [![Github Stats](https://github-readme-stats.vercel.app/api?username=flawnson)](https://github.com/flawnson)
 
+[![Github Stats]([https://github-readme-stats.vercel.app/api?username=flawnson](https://myreadme.vercel.app/api/embed/flawnson))](https://github.com/flawnson)
+https://myreadme.vercel.app/api/embed/flawnson
+
 Many thanks to [Naereen for these awesome Markdown badges](https://github.com/Naereen/badges)!
