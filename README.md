@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Profile views](https://gpvc.arturio.dev/flawnson)
+![](https://komarev.com/ghpvc/?username=flawnson)
 
 Thanks for finding yourself at my Github page! I treat Github like my second website and am constantly updating readmes and projects that I am currently invloved in. Also check out [my blog](https://flawnson.github.io/) if you're curious to know what I've been dabbling in most recently besides code.
 
